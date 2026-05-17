@@ -1,2 +1,2 @@
 # OP-flag-game-
-my description game 
+my description game for OP 
