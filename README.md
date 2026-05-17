@@ -1,2 +1,2 @@
 # OP-flag-game-
-OP_NET community game 🎮 
+my description game 
